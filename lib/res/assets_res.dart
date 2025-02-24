@@ -6,8 +6,8 @@
 class AssetsRes {
   AssetsRes._();
 
-  static const String PLUGIN_NAME = 'mekanik';
-  static const String PLUGIN_VERSION = '3.0.7+1';
+  static const String PROJECT_NAME = 'mekanik';
+  static const String PROJECT_VERSION = '3.0.8+1';
   static const String BG_2 = 'assets/bg 2.png';
   static const String BG = 'assets/bg.png';
   static const String BGABSEN = 'assets/bgabsen.png';
